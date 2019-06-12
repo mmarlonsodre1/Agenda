@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TpAgenda</string>
+    <string name="name">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="cidade">Cidade</string>
+</resources>
